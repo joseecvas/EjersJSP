@@ -12,7 +12,6 @@
 </head>
 <body>
   <%
-
     String nombre = request.getParameter("nombre");
     String idioma = request.getParameter("idioma");
 
